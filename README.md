@@ -22,5 +22,4 @@ Projeto feito como apresentação para meu curso, com o objetivo de praticar est
 
 ---
 
-## 📁 Estrutura de pastas
 
